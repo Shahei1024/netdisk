@@ -1,5 +1,8 @@
 # netdisk
+
+作者联系方式,wechat:13469882774
 刚学习JDBC做了简易网盘项目，可以拿来练练手
+
 运行环境：windows server 2012
 
 开发环境：IDEA 2020.3
